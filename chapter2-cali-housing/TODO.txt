@@ -1,0 +1,13 @@
+TODO
+
+Env: 
+- install matplotlib, numpy, pandas, sicpy, scikit-learn.
+
+Git: 
+- push init
+
+Proj: 
+- sample notebooks
+	-> github.com/ageron/handson-ml2
+- aquire housing dataset (census data)
+	-> URL: raw.githubusercontent.com/ageron/handson-ml2/master/datasets/housing/housing.tgz
